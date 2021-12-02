@@ -1,0 +1,76 @@
+body {
+  background-color: #f5f6fa !important;
+}
+.wrapper {
+  width: 100% !important;
+  max-width: 31.25rem !important;
+  margin: 6rem auto !important;
+}
+
+.label {
+  font-size: 0.625rem !important;
+  font-weight: 400 !important;
+  text-transform: uppercase !important;
+  letter-spacing: +1.3px !important;
+  margin-bottom: 1rem !important;
+}
+
+.searchBar {
+  width: 400px !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+}
+
+#searchQueryInput {
+  width: 100%;
+  height: 2.8rem;
+  background: white;
+  outline: none;
+  border-color: rgb(255, 208, 1);
+  border-width: 3px;
+  border-radius: 1.625rem;
+  padding: 0 3.5rem 0 1.5rem;
+  font-size: 1rem;
+}
+
+#searchQuerySubmit {
+  width: 3.5rem;
+  height: 2.8rem;
+  margin-left: -3.5rem;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+#searchQuerySubmit:hover {
+  cursor: pointer;
+}
+.arrivingSearchResults {
+  width: 80% !important;
+
+  background: white !important;
+  outline: none !important;
+  border-color: rgb(255, 208, 1) !important;
+  border-width: 3px !important;
+  border-radius: 10.625rem !important;
+  padding: 0 3.5rem 0 1.5rem !important;
+  font-size: 1rem !important;
+}
+
+.MarkArriving__arrvingMarkButton {
+  border-radius: 10.625rem !important;
+  width: 200px !important;
+}
+.MarkArriving__align-me-v-center {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.MarkArriving__hide {
+  display: none !important;
+}
+.MarkArriving__displaywarning {
+  font-size: 0.9rem !important;
+  color: red !important;
+}

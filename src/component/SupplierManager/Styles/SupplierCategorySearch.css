@@ -1,0 +1,24 @@
+.supplierCards{
+    /* width: 18rem; */
+    width:auto;
+    border:1px  solid #ffc107;
+}
+
+.supplierAddOrderBtn{
+    width: 80%;
+    
+}
+.supplierSearchBtn{
+    width:100px;
+}
+
+.supplierIcon{
+    width:50px;
+    height: 50px;
+}
+.supplierCardHead{
+    background:  white;
+}
+.supplierCardHeaderH6{
+    color:#ffc107;
+}

@@ -1,0 +1,29 @@
+.supplierEditFormSubmitBtn{
+    width:100px;
+    margin-right: 10px;
+  
+
+}
+.supplierEditFormLabel{
+    font-weight: 500;
+}
+.supplierEditFormHeaderBackground{
+    background-color: whitesmoke;
+}
+.supplierEditFormHeader3{
+    padding: 20px;
+    color:#ffc107;
+}
+
+.supplierEditFormErroMsg{
+    color:red;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.supplierEditForm{
+    margin-left: 8%;
+    margin-right: 30%;
+    display: block;
+    border:1px #ffc107 dashed;
+    padding: 20px;
+}

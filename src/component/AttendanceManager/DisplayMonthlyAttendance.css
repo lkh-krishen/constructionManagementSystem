@@ -1,0 +1,18 @@
+.DisplayMonthlyAttendance__HideElement {
+  display: none !important;
+}
+.DisplayMonthlyAttendance__noDataBg {
+  color: red !important;
+}
+.DisplayMonthlyAttendance__editbtn {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  width: 50px;
+}
+.DisplayMonthlyAttendance__align-me-v-center {
+  display: flex !important;
+  align-items: center !important;
+}
+.DisplayMonthlyAttendance__mon-year-width {
+  width: 100px !important;
+}

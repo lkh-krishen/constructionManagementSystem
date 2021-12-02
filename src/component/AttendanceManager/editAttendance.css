@@ -1,0 +1,10 @@
+.editAttendance__align-me-v-center {
+  display: flex !important;
+  align-items: center !important;
+}
+.maxwid {
+  max-width: 300px !important;
+}
+.minwid {
+  min-width: 50px !important;
+}

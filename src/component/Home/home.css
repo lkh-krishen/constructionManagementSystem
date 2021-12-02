@@ -1,0 +1,13 @@
+.home__invalidYouser_error_msg_visible {
+  visibility: visible !important;
+  color: red;
+}
+.home__invalidYouser_error_msg_hidden {
+  visibility: hidden !important;
+}
+.home__hide_adminPannel {
+  display: none !important;
+}
+.admin_logout_displaystyle {
+  font-size: 0.8rem !important;
+}

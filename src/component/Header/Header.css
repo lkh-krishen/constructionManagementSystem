@@ -1,0 +1,9 @@
+.Header_imageWidth {
+  width: 250px !important;
+}
+.home__hide_adminPannel {
+  display: none !important;
+}
+.admin_logout_displaystyle {
+  font-size: 0.8rem !important;
+}

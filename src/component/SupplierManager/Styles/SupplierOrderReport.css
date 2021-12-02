@@ -1,0 +1,93 @@
+.supplierOrderReportLabel{
+    font-weight: 500;
+}
+.supplierOrderReportBtns{
+    width:100px;
+    margin-top: 8px;
+}
+.supplierOrderReportHeaderBackground{
+    padding: 10px;
+    background-color: #f0ad4e;
+    
+}
+.supplierOrderReportSerachErrorMsg{
+    color:red;
+    font-size: 12px;
+    font-weight: bold;
+}
+.supplierOrderReportMainHeadingBackground{
+    background-color:whitesmoke;
+    padding: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+.supplierOrderReportOtherHeadingBackground{
+    background-color:whitesmoke;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 2px;
+    margin-right: 2px;
+    
+}
+
+.supplierOrderReportContentBackground{
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    
+}
+
+.supplierOrderReportTotalAmountsBackground{
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.supplierOrderReportSubHeadingBackground{
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.suppleirOrderReportContainer{
+    border:#ffc107 2px solid;
+    /* max-width: max-content; */
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.supplierOrderReporHeaderDiv{
+    margin-left: 35%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    padding:10px;
+  
+}
+
+.supplierOrderReportConstructionName{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: 600;
+    margin-left: 10px;
+   
+}
+
+.supplierOrderReportBackBtn{
+    margin-left: 5%;
+    width:100px;
+    margin-top: 8px;
+
+}

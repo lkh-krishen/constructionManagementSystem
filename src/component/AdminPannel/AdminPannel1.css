@@ -1,0 +1,51 @@
+.AdminPannelNavLinks{
+    text-decoration-line: none;
+}
+
+.AdminPannelNavBtn{
+    width: 300px;
+    color:#424242;
+    font-weight: 300;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffc107;
+}
+.AdminPannelNavBtn:hover{
+    color:whitesmoke;
+    background-color: #424242;
+}
+
+.admin_Container{
+
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    padding: 30px;
+    text-align: center;
+    /* background-color: whitesmoke; */
+}
+.adminPannelHeaderBg{
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: #ffc107;
+}
+
+.adminPannelBg{
+    width: 100%;
+}
+
+.adminIcon{
+    width: 100px;
+    height: 100px;
+}
+
+.adminPannelHeaderRow{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

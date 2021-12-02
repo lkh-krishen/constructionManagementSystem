@@ -1,0 +1,29 @@
+.supplierAddSupplierBtn{
+    width: auto;
+    
+}
+
+.supplierH1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color:black;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.supplierAddIcon{
+    width: 700px;
+    height: 150px;
+    display: block;
+}
+
+.supplierAddJumbotron{
+    background-color:white;
+}
+
+.supplierJumbotronHeaderBackground{
+    background-color: #f0ad4e;
+    border-radius: 10rem;
+}
